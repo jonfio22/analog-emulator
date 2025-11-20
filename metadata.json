@@ -1,0 +1,5 @@
+{
+  "name": "AnalogMirror AI",
+  "description": "A professional AI-powered mastering gear profiler that creates stereo digital emulations from single-channel hardware units using neural network modeling.",
+  "requestFramePermissions": []
+}
